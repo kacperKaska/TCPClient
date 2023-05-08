@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "TCPClient": {
+      "commandName": "Project"
+    }
+  }
+}
